@@ -1,0 +1,12 @@
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.exe.config
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.exe
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.pdb
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAddressControlDemo.csprojResolveAssemblyReference.cache
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAddressControlDemo.Properties.Resources.resources
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAddressControlDemo.csproj.GenerateResource.Cache
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAdressControlDemo.exe
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAdressControlDemo.pdb
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.exe.config
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.exe
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\bin\Debug\IPAdressControlDemo.pdb
+D:\2 Курс\Лабы\OOP\IPAdressControlDemo\IPAdressControlDemo\obj\Debug\IPAddressControlDemo.Form1.resources
